@@ -36,17 +36,49 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://travis-ci.org/ElemeFE/element">
+    <img src="https://travis-ci.org/ElemeFE/element.svg?branch=master">
+  </a>
+  <a href="https://coveralls.io/github/ElemeFE/element?branch=master">
+    <img src="https://coveralls.io/repos/github/ElemeFE/element/badge.svg?branch=master">
+  </a>
+  <a href="https://cdnjs.com/libraries/element-ui">
+    <img src="https://img.shields.io/cdnjs/v/element-ui.svg">
+  </a>
+  <a href="https://www.npmjs.org/package/hhframe-web">
+    <img src="https://img.shields.io/npm/v/hhframe-web.svg">
+  </a>
+  <a href="https://npmcharts.com/compare/element-ui?minimal=true">
+    <img src="http://img.shields.io/npm/dm/element-ui.svg">
+  </a>
+  <br>
+  <a href="http://img.badgesize.io/https://unpkg.com/element-ui/lib/index.js?compression=gzip&label=gzip%20size:%20JS">
+    <img src="http://img.badgesize.io/https://unpkg.com/element-ui/lib/index.js?compression=gzip&label=gzip%20size:%20JS">
+  </a>
+  <a href="http://img.badgesize.io/https://unpkg.com/element-ui/lib/theme-chalk/index.css?compression=gzip&label=gzip%20size:%20CSS">
+    <img src="http://img.badgesize.io/https://unpkg.com/element-ui/lib/theme-chalk/index.css?compression=gzip&label=gzip%20size:%20CSS">
+  </a>
+  <a href="#backers">
+    <img src="https://opencollective.com/element/backers/badge.svg">
+  </a>
+  <a href="#sponsors">
+    <img src="https://opencollective.com/element/sponsors/badge.svg">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
+  </a>
+</p>
+
 > A Vue.js 2.0 UI Toolkit for Web.
 
 Element will stay with Vue 2.x 
 
 For Vue 3.0, we recommend using [Element Plus](https://github.com/element-plus/element-plus) from the same team
 
-[![vue-l-lazyload](https://nodei.co/npm/vue-l-lazyload.png)](https://npmjs.org/package/vue-l-lazyload)
-[![vue-l-lazyload](https://nodei.co/npm/vue-l-lazyload.png)]
-[![vue-l-lazyload]](https://npmjs.org/package/vue-l-lazyload)
-[![vue-l-lazyload]]
-[![vue-l-lazyload-test]]
+[![hhframe-web](https://nodei.co/npm/hhframe-web.png)](https://npmjs.org/package/hhframe-web)
+[![hhframe-mob](https://nodei.co/npm/hhframe-mob.png)](https://npmjs.org/package/hhframe-mob)
+[![hhframe-wxapp](https://nodei.co/npm/hhframe-wxapp.png)](https://npmjs.org/package/hhframe-wxapp)
 
 ## Links
 - Homepage and documentation
