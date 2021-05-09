@@ -42,6 +42,8 @@ Element will stay with Vue 2.x
 
 For Vue 3.0, we recommend using [Element Plus](https://github.com/element-plus/element-plus) from the same team
 
+[![vue-l-lazyload](https://nodei.co/npm/vue-l-lazyload.png)](https://npmjs.org/package/vue-l-lazyload)
+
 ## Links
 - Homepage and documentation
   - [International users](http://element.eleme.io/#/en-US)
