@@ -157,18 +157,6 @@ English documentation is brought to you by SwiftGG Translation Team:
 - [Changing](https://github.com/sunzhuo11)
 - [mmoaay](https://github.com/mmoaay)
 
-Spanish documentation is made possible by these community developers:
-- [adavie1](https://github.com/adavie1)
-- [carmencitaqiu](https://github.com/carmencitaqiu)
-- [coderdiaz](https://github.com/coderdiaz)
-- [fedegar33](https://github.com/fedegar33)
-- [Gonzalo2310](https://github.com/Gonzalo2310)
-- [lesterbx](https://github.com/lesterbx)
-- [ProgramerGuy](https://github.com/ProgramerGuy)
-- [SantiagoGdaR](https://github.com/SantiagoGdaR)
-- [sigfriedCub1990](https://github.com/sigfriedCub1990)
-- [thechosenjuan](https://github.com/thechosenjuan)
-
 French documentation is made possible by these community developers:
 - [smalesys](https://github.com/smalesys)
 - [blombard](https://github.com/blombard)
